@@ -2,7 +2,7 @@ blueprint:
   name: Light Bonding with Brightness Sync
   description: Bind 4 light entities together to act in unison
   domain: automation
-  source_url: https://github.com/Azwa32/Home_Assistant/new/main
+  source_url: https://github.com/Azwa32/Home_Assistant/blob/main/Bond_4_Light_Entities.yaml
   input:
     light_1:
       name: Light 1
